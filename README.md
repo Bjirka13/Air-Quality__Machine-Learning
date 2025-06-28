@@ -61,11 +61,3 @@ The notebooks include detailed performance evaluations using:
 Visualizations are provided throughout the data processing steps.
 
 ---
-
-## 📌 Contributing
-Feel free to open issues or submit pull requests for improvements or further development.
-
----
-
-## 📃 License
-This repository is intended for educational purposes only.
