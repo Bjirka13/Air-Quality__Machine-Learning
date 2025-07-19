@@ -1,6 +1,6 @@
 # Air-Quality__Machine-Learning
 
-## 📑 Description
+## Description
 This project, created as the final submission for the Dicoding course Belajar Machine Learning untuk Pemula, applies machine learning algorithms to analyze air quality data collected from monitoring stations in Beijing. The main objectives are:
 - **Classification** of air quality conditions based on pollution parameters.
 - **Clustering** of air quality records to identify hidden patterns.
@@ -9,7 +9,7 @@ The project is implemented using Python, scikit-learn, and Jupyter Notebook.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Air-Quality__Machine-Learning
@@ -30,7 +30,7 @@ Air-Quality__Machine-Learning
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Air_Quality_labeled.csv**  
   Labeled dataset containing air quality categories.
@@ -40,12 +40,12 @@ Air-Quality__Machine-Learning
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 - **Classification:**
+  - Logistic Regression
   - Decision Tree
-  - Random Forest
-  - K-Nearest Neighbors
+  - Support Vector Machine
 
 - **Clustering:**
   - K-Means
@@ -53,7 +53,7 @@ Air-Quality__Machine-Learning
 
 ---
 
-## 📝 Results
+## Results
 The notebooks include detailed performance evaluations using:
 - Accuracy (classification)
 - Silhouette Score (clustering)
